@@ -20,3 +20,4 @@ steps:
     repository: 'bryaalbani/app_backend'
     command: 'buildAndPush'
     Dockerfile: '**/Dockerfile'
+    tags: 'latest'
